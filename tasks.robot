@@ -19,6 +19,7 @@ Search For Mortgage Companies Located In US
     Click Button   xpath:/html/body/div[2]/div/div[2]/div/div/form/button
 Scrape First 30 Companies
 	Scrape First companies    30
+	Close Browser
 
 
 
