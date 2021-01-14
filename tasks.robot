@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation     Simple example using SeleniumLibrary.
+Documentation     Scrapes mortgage companies from ihitdata.com.
 Library           SeleniumLibrary	run_on_failure=Nothing
 Library    Collections
 Library    OperatingSystem
